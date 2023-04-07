@@ -45,4 +45,5 @@ const heap = new Heap()
 for (let i  = 0; i < regularheap.length; i++){
     heap.insert(regularheap[i])
 }
+
 console.log(heap.array)
