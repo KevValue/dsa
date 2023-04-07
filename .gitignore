@@ -1,0 +1,6 @@
+*.md
+
+\b(?!\b_clean\b)[a-z]+.js
+
+/clean
+
